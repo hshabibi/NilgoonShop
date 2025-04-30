@@ -16,9 +16,7 @@ This is a simple e-commerce web application for a stationery store, built as my 
 
 - ASP.NET
 - Entity Framework (EF)
-- SQL Server
 - React
-- JavaScript
 - HTML/CSS
 
 ## 📌 Upcoming Features
